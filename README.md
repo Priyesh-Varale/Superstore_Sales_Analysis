@@ -120,8 +120,7 @@ Enables management teams to make informed decisions using data-driven insights.
 
 ## 📸 Dashboard Preview
 
-![Superstore Dashboard](Images/Superstore_Sales_Analytics_Dashboard.png)
-
+Superstore_Sales_Dashboard.png
 ---
 
 ## 👨‍💻 Author
